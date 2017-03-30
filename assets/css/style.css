@@ -21,10 +21,11 @@ img
 {
 	height: 250px;
 	width: 250px;
-	margin: auto;
+	
 }
 .gifDiv
 {
 	float: left;
 	margin: 3px;
 }
+.gifsView
