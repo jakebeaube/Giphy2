@@ -1,0 +1,30 @@
+body
+{
+	background: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNGzogflnbhwgN0z01yqhKl1GTp-HH_naOptWUBcXyuSaxHbbg") !important;
+	background-size: 100% !important;
+	text-align: center !important;
+}
+.container 
+{
+	background-color: #fff;
+	
+	padding: 20px;
+	text-align: center;
+}
+
+.jumbotron 
+{
+    background-color: inherit;
+}
+
+img
+{
+	height: 250px;
+	width: 250px;
+	margin: auto;
+}
+.gifDiv
+{
+	float: left;
+	margin: 3px;
+}
