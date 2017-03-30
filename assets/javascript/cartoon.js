@@ -29,6 +29,7 @@ $( document ).ready(function() {
         return false;
         });
     }
+        displayGifButtons();
     // Removes last button, not sure if working because add button not working
     
     function removeLastButton(){
